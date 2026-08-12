@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-      <title>the thing I will save</title>
       <link href="file:///Users/dro32/Desktop/Screenshot%202026-08-12%20at%208.55.48%E2%80%AFAM.png">
       <body style="background-color : teal;">
              <h1>The One thing I will save</h1>
